@@ -1,3 +1,10 @@
+---
+title: 'Links'
+description: 'Links to my work elsewhere'
+pubDate: 'Aug 30 2025'
+heroImage: '/blog-placeholder-3.jpg'
+---
+
 ##  Articles
 
 [Presenting Precog, Nubank's Real Time Event AI \- Building Nubank](https://building.nubank.com.br/presenting-precog-nubanks-real-time-event-ai/)
